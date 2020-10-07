@@ -26,7 +26,7 @@ public class MinTimeBoatTravel {
         int w=140;
         int n=13;
 
-        System.out.println(mintime(wt,val,w,n));
+        System.out.println(mintime(wt,w,n));
 
     }
 
