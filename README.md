@@ -22,5 +22,13 @@ this repo is only created for test purpose of McKinley n rice
 
 -----------------------------------------------------------
 
+---------------minimum time taken problem-------------------
+
+-> copy paste the code iin online compiler
+-> build and execute the code
+-> enjoy the output.
+
+------------------------------------------------------------
+
 
 
